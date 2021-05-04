@@ -53,34 +53,20 @@ url = "#services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
-weight = 3
-
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
-
-[[Languages.en.menu.main]]
 name = "pricing"
 url = "#pricing"
-weight = 5
+weight = 3
 
 [[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
-weight = 6
+weight = 4
 
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 7
+weight = 5
 
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 
 
 ################### French Navigation ########################
@@ -126,10 +112,10 @@ weight = 8
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/logo1.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "Nadwal Automobiles - Leading Car Service Company in Australia"
+author = "Nadwal Automobiles"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -138,7 +124,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/logo.png"
+preloader = "images/logo1.png"
 
 # cookies
 [params.cookies]
